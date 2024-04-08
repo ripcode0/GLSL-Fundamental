@@ -5,3 +5,4 @@ theme:
 
 nav:
   - home : index.md
+  - Usage : glsl.md
