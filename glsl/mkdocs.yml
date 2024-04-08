@@ -1,0 +1,7 @@
+site_name: GLSL - Fundamental
+theme: 
+  name : readthedocs
+  nav_style : dark
+
+nav:
+  - home : index.md
